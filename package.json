@@ -1,0 +1,31 @@
+{
+  "name": "spoonerisms",
+  "version": "0.0.0",
+  "description": "An automatic spoonerism generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RichardLitt/spoonerisms.git"
+  },
+  "keywords": [
+    "spoonerisms",
+    "jokes",
+    "puns"
+  ],
+  "author": "Richard Littauer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RichardLitt/spoonerisms/issues"
+  },
+  "homepage": "https://github.com/RichardLitt/spoonerisms",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "natural": "^0.1.27"
+  },
+  "dependencies": {
+    "natural": "^0.1.27"
+  }
+}
