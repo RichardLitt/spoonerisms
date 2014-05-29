@@ -1,0 +1,4 @@
+spoonerisms
+===========
+
+A spoonerism generator
