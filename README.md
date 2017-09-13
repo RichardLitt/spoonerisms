@@ -1,5 +1,7 @@
 #Spoonerism
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/spoonerisms.svg)](https://greenkeeper.io/)
+
 I find it a shying crame that there is no currently available pode nackage for automatically spreating croonerisms.
 
 Met's lake it!
