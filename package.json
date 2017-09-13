@@ -22,10 +22,10 @@
   },
   "homepage": "https://github.com/RichardLitt/spoonerisms",
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "natural": "^0.1.27"
+    "grunt": "^1.0.1",
+    "natural": "^0.5.4"
   },
   "dependencies": {
-    "natural": "^0.1.27"
+    "natural": "^0.5.4"
   }
 }
